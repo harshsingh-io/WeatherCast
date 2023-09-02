@@ -349,4 +349,11 @@
             </LinearLayout>
         </LinearLayout>
     </androidx.cardview.widget.CardView>
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/weather"
+        android:contentDescription="@string/weatherApp_logo" />
 </LinearLayout>

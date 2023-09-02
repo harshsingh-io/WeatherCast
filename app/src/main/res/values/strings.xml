@@ -4,4 +4,5 @@
     <string name="image_contentDescription">image</string>
     <string name="miles_per_hour">miles/hour</string>
     <string name="action_refresh">Refresh</string>
+    <string name="weatherApp_logo">WeatherApp Logo</string>
 </resources>
