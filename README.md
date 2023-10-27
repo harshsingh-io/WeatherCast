@@ -7,7 +7,7 @@ Welcome to the Weather App project! This Android app allows you to retrieve weat
 ## Features
 - API Calls: The app makes API calls to retrieve weather data in JSON format.
 - Retrofit: We use the Retrofit library to handle these API calls efficiently.
-- Permissions: Texture is used to request and manage necessary permissions, such as accessing the internet.
+- Permissions: Dexter is used to request and manage necessary permissions, such as accessing the internet.
 - Internet Connection: The app relies on the user's internet connection to fetch data from the web and display it in a user-friendly format.
 
 ## Preview
