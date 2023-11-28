@@ -5,6 +5,9 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="android:colorPrimary">@color/colorPrimaryDark</item>
     </style>
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
 
     <style name="Theme.WeatherCast" parent="Base.Theme.WeatherCast" />
 </resources>

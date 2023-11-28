@@ -5,11 +5,11 @@ plugins {
 
 android {
     namespace 'com.codeenemy.weathercast'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.codeenemy.weathercast"
-        minSdk 21
+        minSdk 24
         targetSdk 33
         versionCode 1
         versionName "1.0"
