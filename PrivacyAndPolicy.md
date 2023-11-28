@@ -59,4 +59,5 @@ This policy is effective as of 2023-10-23
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at harshsingh704888@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [harshsingh704888@gmail.com]
+[https://harshsingh-io.github.io/portfolio/#contact](https://harshsingh-io.github.io/portfolio/#contact)
