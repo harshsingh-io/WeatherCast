@@ -10,7 +10,7 @@ Welcome to the Weather App project! This Android app allows you to retrieve weat
 - Permissions: Dexter is used to request and manage necessary permissions, such as accessing the internet.
 - Internet Connection: The app relies on the user's internet connection to fetch data from the web and display it in a user-friendly format.
 
-## Preview
+## Demo
 ![App Screenshot](https://github.com/harshsingh-io/WeatherCast/blob/main/Screenshots/Screenshot_20230902-220225.png)
 
 ## Getting Started
