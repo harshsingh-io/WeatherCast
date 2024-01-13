@@ -1,8 +1,12 @@
 # Weather App
 
+<p align="center">
+<img src="https://github.com/harshsingh-io/WeatherCast/blob/main/Screenshots/play_store_512.png" width="100" height="100">
+</p>
+
 Welcome to the Weather App project! This Android app allows you to retrieve weather data using API calls with JSON and Retrofit. It also utilizes several third-party libraries to enhance functionality.
 
-![App Logo](https://github.com/harshsingh-io/WeatherCast/blob/main/Screenshots/play_store_512.png)
+
 
 ## Features
 - API Calls: The app makes API calls to retrieve weather data in JSON format.
@@ -11,7 +15,7 @@ Welcome to the Weather App project! This Android app allows you to retrieve weat
 - Internet Connection: The app relies on the user's internet connection to fetch data from the web and display it in a user-friendly format.
 
 ## Demo
-![App Screenshot](https://github.com/harshsingh-io/WeatherCast/blob/main/Screenshots/Screenshot_20230902-220225.png)
+<img src="https://github.com/harshsingh-io/WeatherCast/blob/main/Screenshots/Screenshot_20230902-220225.png" width="180" height="400">
 
 ## Getting Started
 To get started with this project, follow these steps:
